@@ -7,3 +7,5 @@ After years of strict rules on personal data, recent drafts suggest a shift: les
 The takeaway: data protection is not static. Businesses, regulators, and citizens alike need to pay attention—these changes will shape how personal data is collected, used, and protected.
 
 #GDPR #DataPrivacy #DigitalRights #TechPolicy
+
+https://www.computerworld.com/article/4087347/european-commission-moves-to-loosen-gdpr-for-ai-and-cookie-tracking.html
