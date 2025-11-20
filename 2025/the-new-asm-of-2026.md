@@ -1,3 +1,5 @@
+November 18, 2025
+
 Hi LinkedIn 👋,
 
 Just read a fascinating article, “5 Key Ways Attack Surface Management Will Evolve in 2026”, and it really got me thinking about the future of cybersecurity 🔒.
