@@ -46,4 +46,6 @@ This project serves three goals:
 
 🗂️ Structure
 
-Each post is stored as a Markdown file and organized by year.
+Each post is stored as a Markdown file following a two-level folder structure:
+
+<b>/YEAR/MONTH/post.md</b>
