@@ -12,6 +12,6 @@ Reading this reminded me how critical it is to continuously update our understan
 
 If you’re in law enforcement, intelligence, or even just someone who handles sensitive data online—this is a must-read.
 
-#Cybersecurity #InfoSec #ThreatIntelligence #LawEnforcement #CriminalIntelligence #EncryptedMessaging #CISA #Signal #Telegram #WhatsApp #ZeroClickAttack #CyberAwareness #DigitalSecurity
+<b>#Cybersecurity #InfoSec #ThreatIntelligence #LawEnforcement #CriminalIntelligence #EncryptedMessaging #CISA #Signal #Telegram #WhatsApp #ZeroClickAttack #CyberAwareness #DigitalSecurity</b>
 
 https://www.linkedin.com/pulse/cisa-warns-threat-actors-using-commercial-spyware-rti4e
