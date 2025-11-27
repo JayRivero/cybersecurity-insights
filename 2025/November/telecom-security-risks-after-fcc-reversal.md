@@ -24,6 +24,6 @@ If there was ever a moment for stronger, clearer, and more future-proofed teleco
 
 Curious to hear how others in cyber, intel, and telecom are reading this shift. Are we bracing for impact, or is there still time to course-correct?
 
-#CyberSecurity #TelecomSecurity #FCC #SaltTyphoon #ThreatIntelligence #CriticalInfrastructure #CyberPolicy #InfoSec #DigitalForensics #CyberRisk #NationalSecurity
+<b>#CyberSecurity #TelecomSecurity #FCC #SaltTyphoon #ThreatIntelligence #CriticalInfrastructure #CyberPolicy #InfoSec #DigitalForensics #CyberRisk #NationalSecurity</b>
 
 https://www.csoonline.com/article/4094745/fcc-reversal-removes-federal-cyber-safeguards-targeting-telecom-weaknesses-post-salt-typhoon-attacks.html?utm_medium=organic_social&utm_source=FBPAGE&fbclid=IwVERFWAOPLn9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeZLgcFQv-mDSdb1d-6v6AhbIvfQoPeifgDjEU4djaFUmGzigfIgCmsRbiI7k_aem_NtjdwJyWX0UzIOrKt2nJkQ
