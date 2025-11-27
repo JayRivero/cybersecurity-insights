@@ -10,6 +10,6 @@ What makes this particularly concerning is how it works. The flaw stems from how
 
 Even enterprise-grade software isn’t immune to subtle design flaws. For anyone working with systems and security, this serves as a reminder of the importance of vigilance, understanding how code behaves behind the scenes, and applying patches promptly. Small oversights in design or implementation can quickly escalate into major vulnerabilities.
 
-#CyberSecurity #Oracle #ZeroDay #InfoSec #RemoteCodeExecution #EnterpriseSecurity #VulnerabilityManagement
+<b>#CyberSecurity #Oracle #ZeroDay #InfoSec #RemoteCodeExecution #EnterpriseSecurity #VulnerabilityManagement</b>
 
 https://www.csoonline.com/article/4095150/oracle-oim-zero%E2%80%91day-pre%E2%80%91auth-rce-forces-rapid-patching-across-enterprises.html?utm_medium=organic_social&utm_source=FBPAGE&fbclid=IwVERFWAOSbqxleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeXua3UZt7P0EI5hAz8AwNzmiZWCRhpuAagervtiV1XS3cfgpiPRLEuKp8Slk_aem_kDsNgRyyoEn0gvV9PrniWw
