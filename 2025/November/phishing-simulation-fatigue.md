@@ -16,4 +16,4 @@ In today’s rapidly evolving threat landscape, we need to balance security educ
 
 💡 Security awareness is essential—but so is a culture that allows employees to act confidently and efficiently in the digital workplace.
 
-#CyberSecurity #Phishing #SecurityAwareness #SOC #InfoSecCulture #AlertFatigue
+<b>#CyberSecurity #Phishing #SecurityAwareness #SOC #InfoSecCulture #AlertFatigue</b>
