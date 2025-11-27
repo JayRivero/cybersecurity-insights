@@ -18,6 +18,6 @@ Bottom line: Even a top-tier cybersecurity firm isn’t immune to insider risk. 
 
 ❓What do you think? How are you building trust — and guardrails — to prevent insiders from becoming your weakest link?
 
-#Cybersecurity #InsiderThreat #RiskManagement #Infosec #Leadership
+<b>#Cybersecurity #InsiderThreat #RiskManagement #Infosec #Leadership</b>
 
 https://www.csoonline.com/article/4094780/crowdstrike-fired-insider-for-sharing-internal-info-with-hacking-group.html?utm_medium=organic_social&utm_source=FBPAGE&fbclid=IwVERFWAOOi35leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEehPbuz3dnEX8yGAuiHkwTVtgWx7g6ndaVr58-E_ZLhdRcbnwHWOcZ6j-UNLI_aem_BYxaxRtY5AhpB-72I65mdQ
