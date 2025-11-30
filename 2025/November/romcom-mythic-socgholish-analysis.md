@@ -1,10 +1,10 @@
 ## November 30, 2025
 
-# RomCom delivers a new payload — and it’s far from harmless. 💥
+# **RomCom delivers a new payload — and it’s far from harmless.** 💥
 
 A new campaign is targeting Ukraine-linked organizations in the U.S. — and it’s a perfect example of how modern cyberattacks operate.
 
-### **Key Insights**
+### Key Insights
 
 1. **SocGholish fake update lures are back.**  
    ✅ The attackers use fake software updates to trick users into clicking, then drop their real tool: Mythic Agent.
@@ -21,9 +21,10 @@ A new campaign is targeting Ukraine-linked organizations in the U.S. — and it�
 5. **Awareness and vigilance are essential.**  
    ✅ Training, skepticism, and verification can stop many attacks before they escalate.
 
-### **Final Thought**
+### Final Thought
 
 Cybersecurity isn’t just technical — it’s strategic. Staying ahead of attacks means anticipating, detecting, and disrupting campaigns like this before damage occurs.
 
 **#CyberSecurity #ThreatIntelligence #InfoSec #Malware #SecurityAwareness #LearningCybersecurity**
 
+[Read the full article](https://www.csoonline.com/article/4097944/romcom-tries-dropping-a-not-so-romantic-payload-on-ukraine-linked-us-firms.html?utm_medium=organic_social&utm_source=FBPAGE&fbclid=IwVERFWAOWxRhleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeuELCXPczPZ3hZZjVa9vz-KN3hVeYw4f9fPZNeCgMc8MhiLc4trA0Wj2BtM8_aem_CJ9BYL7uLn__eKKXIdY36A)
