@@ -1,6 +1,6 @@
 ## November 30, 2025
 
-RomCom delivers a new payload — and it’s far from harmless. 💥
+# RomCom delivers a new payload — and it’s far from harmless. 💥
 
 A new campaign is targeting Ukraine-linked organizations in the U.S. — and it’s a perfect example of how modern cyberattacks operate.
 
