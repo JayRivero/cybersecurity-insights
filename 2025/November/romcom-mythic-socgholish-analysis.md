@@ -4,8 +4,6 @@ RomCom delivers a new payload — and it’s far from harmless. 💥
 
 A new campaign is targeting Ukraine-linked organizations in the U.S. — and it’s a perfect example of how modern cyberattacks operate.
 
-<br>
-
 ### **Key Insights**
 
 1. **SocGholish fake update lures are back.**  
@@ -23,10 +21,9 @@ A new campaign is targeting Ukraine-linked organizations in the U.S. — and it�
 5. **Awareness and vigilance are essential.**  
    ✅ Training, skepticism, and verification can stop many attacks before they escalate.
 
-<br>
-
 ### **Final Thought**
 
 Cybersecurity isn’t just technical — it’s strategic. Staying ahead of attacks means anticipating, detecting, and disrupting campaigns like this before damage occurs.
 
 **#CyberSecurity #ThreatIntelligence #InfoSec #Malware #SecurityAwareness #LearningCybersecurity**
+
