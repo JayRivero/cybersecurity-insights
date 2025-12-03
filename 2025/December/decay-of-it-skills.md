@@ -27,4 +27,5 @@ The pace isn’t slowing — but that’s exactly where the advantage is for tho
 
 **#ITCareers #Cybersecurity #ContinuousLearning #TechProfessionals #CareerGrowth**
 
-[Read more](https://www.cio.com/article/4093446/the-incredible-shrinking-shelf-life-of-it-skills.html?utm_medium=organic_social&utm_source=FBPAGE&fbclid=IwVERFWAORf3tleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeXAxW330WiMLS4LUf2WuvZNXy6VX08BBwOyGPaRBKEsIDqYOMghSwCWFyD2c_aem_prNpCcLXI8u8Xj8i4xuOcQ)
+[Read the full article](https://www.cio.com/article/4093446/the-incredible-shrinking-shelf-life-of-it-skills.html?utm_medium=organic_social&utm_source=FBPAGE&fbclid=IwVERFWAORf3tleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEeXAxW330WiMLS4LUf2WuvZNXy6VX08BBwOyGPaRBKEsIDqYOMghSwCWFyD2c_aem_prNpCcLXI8u8Xj8i4xuOcQ)
+
