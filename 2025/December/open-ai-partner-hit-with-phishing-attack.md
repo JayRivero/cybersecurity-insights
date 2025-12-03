@@ -22,4 +22,7 @@ This incident is a stark reminder: security isn’t just about tools; it’s abo
 
 **#CyberSecurity #DataBreach #ThirdPartyRisk #Infosec #PhishingAwareness**
 
-[Read more](https://www.csoonline.com/article/4097488/openai-admits-data-breach-after-analytics-partner-hit-by-phishing-attack-2.html)
+[Read the full article](https://www.csoonline.com/article/4097488/openai-admits-data-breach-after-analytics-partner-hit-by-phishing-attack-2.html)
+
+
+
