@@ -18,4 +18,5 @@ Cybersecurity isn’t just about tech; it’s about people, processes, and aware
 
 **#CyberSecurity #ThreatIntelligence #SocialEngineering #OSINT #Infosec #SecurityAwareness #CyberHygiene #CyberThreats**
 
-[Read more](https://www.infosecurity-magazine.com/news/scattered-lapsus-hunters-zendesk/)
+[Read the full article](https://www.infosecurity-magazine.com/news/scattered-lapsus-hunters-zendesk/)
+
