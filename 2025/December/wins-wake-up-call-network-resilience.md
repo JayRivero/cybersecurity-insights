@@ -18,5 +18,4 @@ The WINS sunset is your chance to rethink, harden, and future-proof your network
 
 **#Cybersecurity #Networking #WindowsServer #LegacySystems #ITStrategy**
 
-Read full article:  
-[Microsoft gives Windows admins a legacy migration headache with WINS sunset](https://www.computerworld.com/article/4098085/microsoft-gives-windows-admins-a-legacy-migration-headache-with-wins-sunset.html)
+[Read the full article]([https://www.csoonline.com/article/4097488/openai-admits-data-breach-after-analytics-partner-hit-by-phishing-attack-2.html](https://www.computerworld.com/article/4098085/microsoft-gives-windows-admins-a-legacy-migration-headache-with-wins-sunset.html))
