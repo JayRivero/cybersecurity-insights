@@ -1,6 +1,6 @@
 ## December 5, 2025
 
-## 🚨 Malicious Browser Extensions: A Long‑Standing Threat
+# 🚨 Malicious Browser Extensions: A Long‑Standing Threat
 
 Malicious browser extensions aren’t a “new threat”—they’re a long‑standing one we keep underestimating.  
 
