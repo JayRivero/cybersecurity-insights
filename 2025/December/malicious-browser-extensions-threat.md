@@ -1,4 +1,4 @@
-December 5, 2025
+## December 5, 2025
 
 ## 🚨 Malicious Browser Extensions: A Long‑Standing Threat
 
