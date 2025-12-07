@@ -1,6 +1,6 @@
-December 4, 2025
+## December 4, 2025
 
-## 🚨 The WINS Sunset: A Wake-Up Call for Network Resilience
+# 🚨 The WINS Sunset: A Wake-Up Call for Network Resilience
 
 The retirement of WINS isn’t just about an old protocol—it’s a reminder that legacy systems quietly shape risk and strategy.
 
